@@ -1,0 +1,1 @@
+# Como-instalar-o-Zabbix-Agent-2-no-Ubuntu-22.04-
